@@ -1,4 +1,9 @@
-.idea
+# audio files
+*.mp3
+*.au
+
+
+idea
 MANIFEST
 build
 dist
