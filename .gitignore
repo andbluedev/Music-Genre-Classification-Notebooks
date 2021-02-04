@@ -52,3 +52,5 @@ cache/
 *.xlsx
 venv
 ./data/*
+./audio_tracks/*
+docs/~.pptx
