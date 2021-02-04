@@ -51,3 +51,4 @@ geckodriver.log
 cache/
 *.xlsx
 venv
+./data/*
