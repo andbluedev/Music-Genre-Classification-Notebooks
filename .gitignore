@@ -54,3 +54,5 @@ venv
 ./data/*
 ./audio_tracks/*
 docs/~.pptx
+repository/datasets/songs/*
+datasets/songs/*
