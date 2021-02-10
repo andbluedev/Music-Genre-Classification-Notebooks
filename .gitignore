@@ -2,6 +2,8 @@
 # *.mp3
 *.au
 
+# spectrograms
+datasets/spectrograms/*
 
 idea
 MANIFEST
@@ -56,3 +58,4 @@ venv
 docs/~.pptx
 repository/datasets/songs/*
 datasets/songs/*
+./datasets/spectrograms
