@@ -46,6 +46,7 @@ def process_audio(scaler, songname):
     spec_con = librosa.feature.spectral_contrast(y=y, sr=sr)
     spec_flat = librosa.feature.spectral_flatness(y=y)
     tonnetz = librosa.feature.tonnetz(y = y, sr = sr)
+
     print("-> librosa.feature... (feature extraction) in %s seconds" % (time.time() - start_time_feature_extraction))
     
     start_time_numpy_operation = time.time()
