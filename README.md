@@ -14,3 +14,13 @@ The repository covers the following aspects in various notebooks:
 ## Dataset
 
 The features used for this project come were extracted from the audio files of the [GTZAN Genre Collection](https://www.kaggle.com/carlthome/gtzan-genre-collection).
+
+
+## Live Demo of the best Model
+
+- Web application: [https://classify.k8s.pouretadev.com/](https://classify.k8s.pouretadev.com/)
+
+## Related Repositories
+
+- Frontend - Web App: [https://github.com/andbluedev/Music-Genre-Classification-Model-Web-APP ](https://github.com/andbluedev/Music-Genre-Classification-Model-Web-APP )
+- Backend - REST API: [https://github.com/andbluedev/Music-Genre-Classification-Model-REST-API](https://github.com/andbluedev/Music-Genre-Classification-Model-REST-API)
